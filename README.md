@@ -1,73 +1,84 @@
-# Welcome to your Lovable project
+# 🚀 Personal Portfolio Website
 
-## Project info
+A modern, responsive personal portfolio website showcasing my projects, skills, and resume.  
+Built to highlight my work and provide an easy way to connect with me.
 
-**URL**: https://lovable.dev/projects/f9744e0b-7e91-4818-9040-4adaa1bec836
+🔗 **Live Demo:** https://shariefportfolio.vercel.app/
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 Features
 
-**Use Lovable**
+- 🏠 **Home** – Brief introduction and personal branding  
+- 💼 **Projects** – Showcases selected projects with descriptions and links  
+- 🛠 **Skills** – Displays technical skills and tools  
+- 📄 **Resume** – Downloadable resume  
+- 📱 **Responsive Design** – Works across desktop, tablet, and mobile devices  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f9744e0b-7e91-4818-9040-4adaa1bec836) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🖼 Screenshots
 
-**Use your preferred IDE**
+### Home
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+<img width="1919" height="925" alt="Screenshot 2025-12-19 232308" src="https://github.com/user-attachments/assets/ef15cb56-a6e3-45cd-af2b-7d110beaf2e4" />
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+### Projects
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+<img width="1919" height="926" alt="Screenshot 2025-12-19 232323" src="https://github.com/user-attachments/assets/1677db1d-2f3e-46c6-95ad-07f9174ebd00" />
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Skills
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+<img width="1917" height="922" alt="Screenshot 2025-12-19 232335" src="https://github.com/user-attachments/assets/784f03b9-f0fa-484c-896a-0fa166a0d509" />
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Resume
 
-**Use GitHub Codespaces**
+<img width="1919" height="928" alt="Screenshot 2025-12-19 232401" src="https://github.com/user-attachments/assets/23462936-c8ae-4e7e-be1e-745e36e572b8" />
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### About
 
-## What technologies are used for this project?
+<img width="1919" height="929" alt="Screenshot 2025-12-19 232349" src="https://github.com/user-attachments/assets/21a9ab4b-293d-4dd1-b7cd-4d48ee14f703" />
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🛠 Tech Stack
 
-Simply open [Lovable](https://lovable.dev/projects/f9744e0b-7e91-4818-9040-4adaa1bec836) and click on Share -> Publish.
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Styling:** Tailwind CSS / CSS  
+- **Deployment:** Vercel  
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🚀 Deployment
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+The project is deployed using Vercel.
+Any new commit to the main branch automatically triggers a redeployment.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 👤 Author
+
+👤 Sharief Sk
+
+🌐 Portfolio: https://shariefportfolio.vercel.app/
+
+💼 LinkedIn: (https://www.linkedin.com/in/sharief-sk/)
+
+🐙 GitHub: (https://github.com/Sk-Sharief)
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+
+## ⚙️ Installation & Setup (Optional)
+
+If someone wants to run it locally:
+
+```bash
+git clone https://github.com/Sk-Sharief/Portfolio-1.git
+cd portfolio1
+npm install
+npm run dev 
